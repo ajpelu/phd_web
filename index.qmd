@@ -1,0 +1,13 @@
+---
+title: "Título de tu tesis"
+author: "Tu Nombre"
+date: today
+---
+
+# Resumen
+
+Aquí puedes poner el resumen de la tesis.
+
+# Introducción a la web
+
+Esta web contiene los capítulos de la tesis.

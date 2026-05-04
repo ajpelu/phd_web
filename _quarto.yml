@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Tesis Quarto"
+  author: "Antonio Jesús Pérez-Luque"
+  chapters:
+    - index.qmd
+    - chap01-introduction.qmd
+    - chap02-metodologia.qmd
+    - chap03-multivariante.qmd
+    - chap04-coloniza.qmd
+    - chap05-carbon.qmd
+    - chap06-dendro.qmd
+     # - chap07-ontology.qmd
+     # - chap08-es.qmd
+     # - chap09-discussion.qmd 
+     # - chap10-conclussions.qmd
+    - references.qmd
+
+bibliography: referencias.bib
+csl: ecology.csl
+reference-location: document
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
