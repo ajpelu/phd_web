@@ -20,7 +20,6 @@ book:
 
 bibliography: referencias.bib
 csl: ecology.csl
-reference-location: document
 
 format:
   html:
