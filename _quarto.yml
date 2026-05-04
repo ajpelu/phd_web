@@ -5,6 +5,7 @@ book:
   title: "Tesis Quarto"
   author: "Antonio Jesús Pérez-Luque"
   chapters:
+    - abstract.qmd
     - index.qmd
     - chap01-introduction.qmd
     - chap02-metodologia.qmd
